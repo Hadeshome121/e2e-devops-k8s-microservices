@@ -106,7 +106,7 @@ helm install gateway-release ./k8s-helm/gateway-chart -n devops
 
 ### 4. Access the Services
 
-* Frontend: http://reactjs.local/
+* Frontend: https://deluxe-llama-e6c608.netlify.app
 * API: http://api.local/
 * Edit /etc/hosts:
 
