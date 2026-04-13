@@ -145,18 +145,5 @@ Terraform -> Ansible -> Docker/K8s/Helm -> GitHub Actions -> Helm Deployments ->
 
 ---
 
-## License
 
-MIT License
 
----
-
-## Maintainer
-
-Anandita Nagpal
-Computer Science Engineer | Full-Stack and AI/GenAI Developer
-Email: nagpalanandita@gmail.com
-GitHub: github.com/Anandita-Nagpal
-LinkedIn: linkedin.com/in/anandita-nagpal
-
-Anandita is a Computer Science Engineer with over 2 years of professional experience building full-stack products. She focuses on React/Next.js, Node/FastAPI, and PostgreSQL, shipping pragmatic, production-ready features integrated with ML/GenAI, CI/CD, Docker, and cloud-native deployments.
